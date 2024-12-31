@@ -5,7 +5,6 @@ Libft is a great project to understand how some basic functions work and to crea
 Make sure to include some useful libraries in your Makefile, such as:
 - #include <unistd.h>
 - #include <stdlib.h>
-- #include <stdio.h>
 - #include <string.h>
 
 By doing this, you will be able to use them without writing them in your function files.
